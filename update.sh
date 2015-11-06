@@ -6,3 +6,4 @@ git commit -m "Update"
 git checkout master
 git merge gh-pages
 git push -u origin gh-pages
+git push -u origin master
